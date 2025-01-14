@@ -1,9 +1,8 @@
 # Pokemon Adventure Game 👾
 
 A personalized Pokémon-inspired game created as a graduation surprise for a dear friend of mine! Built with Pygame, featuring pixel art and custom animations.
-Game play elaborated with friends, everything else I built on my own :)
 
-![Gameplay Preview](path/to/your/gameplay.gif)
+![Gameplay Preview](https://github.com/laurazecca01/personalised-pokemon-game/blob/main/images/Screen%20Recording%20Jun%2030%202024%20from%20Convert%20to%20GIF%20project.gif?raw=true)
 
 ## Features & technical details 👁️
 - Custom pixel art graphics + archival graphic from past nintendo games
