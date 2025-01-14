@@ -17,8 +17,8 @@ A personalized Pokémon-inspired game created as a graduation surprise for a dea
 - Screen management for different game states
 
 ## 🎥 Gameplay
-![Another Gameplay Moment](path/to/second/gameplay.gif)
-
+<img src="https://github.com/laurazecca01/personalised-pokemon-game/blob/main/images/Convert%20to%20GIF%20Jan%2014%202025.gif?raw=true" width="350" />
+<img src="https://raw.githubusercontent.com/laurazecca01/personalised-pokemon-game/refs/heads/main/images/Screen%20Recording%20Jun%2030%202024%20from%20Convert%20to%20GIF%20Project%20(1).gif" width="350" />
 
 ## 🎨 Assets
 - Custom pixel art created for characters and environments (https://www.spriters-resource.com/)
